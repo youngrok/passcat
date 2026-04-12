@@ -1,15 +1,15 @@
-# Your Data Bot
+# 패스캣 (Passcat)
 
 공동인증서를 중앙에서 관리하고 홈택스·위택스·사회보험(국민연금) 포털에 자동 로그인해주는 Windows·macOS 데스크톱 앱입니다.
 
-이 저장소는 **Your Data Bot의 설치 파일을 배포**하기 위한 공간입니다. 앱 소스 코드는 별도 저장소에서 관리됩니다.
+이 저장소는 **패스캣의 설치 파일을 배포**하기 위한 공간입니다. 앱 소스 코드는 별도 저장소에서 관리됩니다.
 
 ## 다운로드
 
 최신 버전은 [Releases](https://github.com/youngrok/passcat/releases/latest) 페이지에서 받을 수 있습니다.
 
-- **Windows**: `yourdatabot-<버전>-win-setup.exe` — 실행하면 자동으로 설치됩니다.
-- **macOS**: `yourdatabot-<버전>-mac.dmg` — 준비 중입니다.
+- **Windows**: `passcat-<버전>-win-setup.exe` — 실행하면 자동으로 설치됩니다.
+- **macOS**: `passcat-<버전>-mac.dmg` — 준비 중입니다.
 
 각 설치 파일 옆의 `.sha256`와 `.sig`는 무결성·서명 확인용입니다. 앱 내부의 자동 업데이트 기능이 이 파일들을 이용해 다운로드한 설치 파일을 검증합니다.
 
